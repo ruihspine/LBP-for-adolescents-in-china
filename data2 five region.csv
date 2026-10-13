@@ -1,0 +1,1054 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+3,YLDs (Years Lived with Disability),1,Global,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,2854605.163,4050161.012,1863573.583
+3,YLDs (Years Lived with Disability),1,Global,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,4552075.356,6475091.063,2986315.778
+3,YLDs (Years Lived with Disability),1,Global,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7406680.519,10519957.74,4860323.346
+3,YLDs (Years Lived with Disability),1,Global,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.042119119,0.05475042,0.032059659
+3,YLDs (Years Lived with Disability),1,Global,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.054581244,0.070536392,0.041951008
+3,YLDs (Years Lived with Disability),1,Global,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.048990434,0.062870755,0.037754129
+3,YLDs (Years Lived with Disability),1,Global,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,289.0844502,410.1577985,188.7231732
+3,YLDs (Years Lived with Disability),1,Global,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,483.3332339,687.5164531,317.0829895
+3,YLDs (Years Lived with Disability),1,Global,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,383.9104454,545.2809325,251.9251229
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,458178.6199,654505.3923,291740.3702
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,763144.6388,1103436.986,489705.4177
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1221323.259,1744682.81,785333.1758
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.038594581,0.050512399,0.029029673
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.05397566,0.070405053,0.041324447
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.046951971,0.061467625,0.035632223
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,246.4058608,351.9892845,156.896315
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,442.0613494,639.1800692,283.668163
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,340.6019434,486.5561608,219.0132743
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,424028.2717,610366.9556,267288.2688
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,757760.4116,1089190.557,486535.0051
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1181788.683,1698783.887,752026.4438
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.036007353,0.047901476,0.027156692
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.049343164,0.064520779,0.037650936
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.043550362,0.056760102,0.033377241
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,244.5844648,352.0667963,154.1749985
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,454.432517,653.1927489,291.7773528
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,347.4668436,499.4726074,221.1091191
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,715041.7065,1014410.032,460179.7206
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,1162650.775,1653172.534,754705.1043
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1877692.482,2654277.302,1214539.732
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.034526699,0.045807467,0.025651152
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.044415575,0.057824924,0.033818453
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.040044315,0.052372814,0.030161697
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,258.6651275,366.9611128,166.4692353
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,422.7776082,601.1472617,274.435304
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,340.508225,481.337206,220.2494671
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,332655.3152,479625.0688,214355.9677
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,557945.6498,801963.0343,372308.5604
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,890600.965,1279021.906,587430.4044
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.042752023,0.05585112,0.032451432
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.059225318,0.076083553,0.046188399
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.051770408,0.066268285,0.040343751
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,269.684424,388.8331389,173.7788727
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,477.5558593,686.4147898,318.6656882
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,370.8003318,532.5187888,244.5757387
+5,Prevalence,44634,High-middle SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,4110468.235,5176991.663,3230558.63
+5,Prevalence,44634,High-middle SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,6920988.254,8832331.339,5460997.723
+5,Prevalence,44634,High-middle SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,11031456.49,14028457.93,8699277.663
+5,Prevalence,44634,High-middle SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.023811985,0.030054269,0.018719255
+5,Prevalence,44634,High-middle SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.041333541,0.052682669,0.032485484
+5,Prevalence,44634,High-middle SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.032439013,0.041136409,0.025605617
+5,Prevalence,44634,High-middle SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,2210.586483,2784.156728,1737.376092
+5,Prevalence,44634,High-middle SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,4009.07148,5116.24155,3163.353183
+5,Prevalence,44634,High-middle SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3076.44638,3912.248455,2426.049661
+5,Prevalence,44637,Low SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,6473463.662,8052695.403,5090248.116
+5,Prevalence,44637,Low SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,10637354.3,13374342.38,8459650.998
+5,Prevalence,44637,Low SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,17110817.97,21420827.19,13529985.78
+5,Prevalence,44637,Low SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.024206783,0.03018636,0.019046446
+5,Prevalence,44637,Low SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.039199071,0.049246475,0.031216121
+5,Prevalence,44637,Low SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.031757649,0.039680711,0.025151567
+5,Prevalence,44637,Low SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,2341.764527,2913.048937,1841.388644
+5,Prevalence,44637,Low SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,3868.087741,4863.345559,3076.204043
+5,Prevalence,44637,Low SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3102.943805,3884.538026,2453.58145
+5,Prevalence,44636,Low-middle SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,3819379.647,4906066.94,3010311.478
+5,Prevalence,44636,Low-middle SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,6911116.358,8852992.072,5433248.464
+5,Prevalence,44636,Low-middle SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10730496.01,13740047.25,8421427.584
+5,Prevalence,44636,Low-middle SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.023185402,0.029674474,0.018312964
+5,Prevalence,44636,Low-middle SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.042163345,0.054038665,0.033155002
+5,Prevalence,44636,Low-middle SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.032650406,0.04166188,0.025631904
+5,Prevalence,44636,Low-middle SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,2203.062836,2829.876772,1736.382857
+5,Prevalence,44636,Low-middle SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,4144.629297,5309.181384,3258.344903
+5,Prevalence,44636,Low-middle SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3154.956237,4039.817706,2476.049147
+5,Prevalence,1,Global,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,25701729.58,32241267.42,20467435.83
+5,Prevalence,1,Global,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,41446518.85,52049283.64,33066532.3
+5,Prevalence,1,Global,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,67148248.43,84401415.89,53582709.77
+5,Prevalence,1,Global,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.027644056,0.03464338,0.022040608
+5,Prevalence,1,Global,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.045097446,0.056615049,0.036029008
+5,Prevalence,1,Global,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.036320035,0.045692841,0.029014776
+5,Prevalence,1,Global,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,2602.801418,3265.057174,2072.727084
+5,Prevalence,1,Global,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,4400.735581,5526.522874,3510.95989
+5,Prevalence,1,Global,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3480.494925,4374.778294,2777.352407
+5,Prevalence,44639,Middle SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,2984194.528,3793244.252,2365325.761
+5,Prevalence,44639,Middle SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,5063009.138,6387047.957,4025621.374
+5,Prevalence,44639,Middle SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8047203.666,10133770.39,6423755.512
+5,Prevalence,44639,Middle SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.025527397,0.032240533,0.020288746
+5,Prevalence,44639,Middle SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.044298762,0.055865777,0.035268876
+5,Prevalence,44639,Middle SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.034807006,0.043779032,0.027869585
+5,Prevalence,44639,Middle SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,2419.293321,3075.19178,1917.574998
+5,Prevalence,44639,Middle SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,4333.521876,5466.790853,3445.602766
+5,Prevalence,44639,Middle SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3350.440777,4219.179601,2674.520654
+6,Incidence,1,Global,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,12153923.44,15160875.11,9672104.833
+6,Incidence,1,Global,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,19364762.8,24157293.58,15439258.19
+6,Incidence,1,Global,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,31518686.25,39344040.39,25176495.66
+6,Incidence,1,Global,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.002492472,0.00319641,0.001885055
+6,Incidence,1,Global,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.003882274,0.004995085,0.002975244
+6,Incidence,1,Global,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.003195248,0.004116458,0.002444928
+6,Incidence,1,Global,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,1230.821804,1535.334309,979.4892633
+6,Incidence,1,Global,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,2056.124448,2564.988915,1639.319652
+6,Incidence,1,Global,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1633.707954,2039.319508,1304.973211
+6,Incidence,44634,High-middle SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,1959079.678,2447476.225,1547490.589
+6,Incidence,44634,High-middle SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,3258457.823,4088279.079,2599982.115
+6,Incidence,44634,High-middle SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5217537.501,6522084.691,4151183.129
+6,Incidence,44634,High-middle SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.002276501,0.002969172,0.001727849
+6,Incidence,44634,High-middle SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.003829202,0.004999797,0.002895831
+6,Incidence,44634,High-middle SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.003048527,0.003972597,0.002313593
+6,Incidence,44634,High-middle SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,1053.58193,1316.23882,832.231654
+6,Incidence,44634,High-middle SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,1887.503612,2368.18825,1506.073087
+6,Incidence,44634,High-middle SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1455.063923,1818.87531,1157.679616
+6,Incidence,44637,Low SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,3088347.005,3923493.065,2440816.485
+6,Incidence,44637,Low SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,5027598.499,6304589.458,3988522.266
+6,Incidence,44637,Low SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8115945.504,10244409.03,6441008.817
+6,Incidence,44637,Low SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.002113095,0.002733317,0.001598943
+6,Incidence,44637,Low SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.003238143,0.004163908,0.00245103
+6,Incidence,44637,Low SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.002692586,0.003469151,0.002029141
+6,Incidence,44637,Low SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,1117.204304,1419.316978,882.9612337
+6,Incidence,44637,Low SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,1828.198212,2292.553627,1450.356324
+6,Incidence,44637,Low SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1471.777847,1857.761891,1168.038164
+6,Incidence,44639,Middle SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,1442565.179,1815638.638,1145105.104
+6,Incidence,44639,Middle SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,2334346.906,2896873.454,1854609.983
+6,Incidence,44639,Middle SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3776912.085,4674819.13,2989133.911
+6,Incidence,44639,Middle SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.002334953,0.003062092,0.001718953
+6,Incidence,44639,Middle SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.003852422,0.004991396,0.002829618
+6,Incidence,44639,Middle SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.003086319,0.004039253,0.002273906
+6,Incidence,44639,Middle SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,1169.490886,1471.942392,928.3393235
+6,Incidence,44639,Middle SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,1998.010098,2479.486832,1587.394515
+6,Incidence,44639,Middle SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1572.511494,1946.353701,1244.521272
+6,Incidence,44636,Low-middle SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,1814305.261,2257616.911,1431276.208
+6,Incidence,44636,Low-middle SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,3245557.578,4105615.879,2563940.784
+6,Incidence,44636,Low-middle SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5059862.839,6379412.575,3987600.771
+6,Incidence,44636,Low-middle SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.002227392,0.002903423,0.001631367
+6,Incidence,44636,Low-middle SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.003760814,0.004882784,0.002772688
+6,Incidence,44636,Low-middle SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.00301627,0.003904173,0.002226881
+6,Incidence,44636,Low-middle SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,1046.512487,1302.21983,825.5768509
+6,Incidence,44636,Low-middle SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,1946.376291,2462.157338,1537.607463
+6,Incidence,44636,Low-middle SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1487.689461,1875.660499,1172.425386
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1990,1082114.428,1528290.192,726402.3701
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1990,1604675.85,2276477.674,1053839.967
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1990,2686790.278,3802121.862,1780242.337
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1990,0.064147039,0.083171491,0.049915122
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1990,0.080526639,0.103931261,0.063664293
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1990,0.073012325,0.094441172,0.057241305
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1990,411.8906755,581.7208081,276.4941999
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1990,637.1912605,903.9530809,418.4630913
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1990,522.1583723,738.9150463,345.9772981
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1991,1073825.323,1524157.036,719397.5138
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1991,1592843.894,2251909.613,1047560.253
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1991,2666669.217,3772043.784,1766977.545
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1991,0.06394725,0.082818418,0.049743721
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1991,0.080400639,0.104154712,0.063521022
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1991,0.072847593,0.094313604,0.05734981
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1991,409.9456277,581.8651318,274.6385833
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1991,634.7016507,897.3200411,417.4220864
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1991,519.9170488,735.4304988,344.505327
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1992,1066133.568,1515773.942,718940.6425
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1992,1579481.625,2238385.354,1037158.705
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1992,2645615.192,3749681.416,1756905.9
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1992,0.063893344,0.082887874,0.049962567
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1992,0.080289487,0.103620175,0.06336779
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1992,0.072760035,0.094128386,0.057524008
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1992,408.4522749,580.7164632,275.4372903
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1992,631.6185639,895.1074334,414.7491693
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1992,517.6449766,733.6682048,343.7588037
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1993,1058723.224,1496127.227,716684.7846
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1993,1567881.273,2221718.639,1034797.586
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1993,2626604.497,3717679.812,1753121.937
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1993,0.06380584,0.082804366,0.049821997
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1993,0.080128467,0.103440749,0.06298752
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1993,0.072633543,0.093988402,0.057008743
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1993,406.7893025,574.851422,275.3691399
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1993,628.4586678,890.538308,414.7810959
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1993,515.2794404,729.3233432,343.9222356
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1994,1051798.324,1482257.548,711572.5769
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1994,1558587.044,2199075.831,1030641.15
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1994,2610385.368,3686536.539,1744530.244
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1994,0.063665089,0.082497367,0.049980834
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1994,0.079906019,0.102988947,0.063118006
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1994,0.072452781,0.0936087,0.057400526
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1994,404.8839639,570.5868679,273.9159389
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1994,625.2608727,882.2067902,413.4639687
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1994,512.7978919,724.202713,342.7047371
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1995,1046582.404,1481709.345,707086.4996
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1995,1550945.04,2187463.424,1022927.724
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1995,2597527.444,3669172.769,1730175.621
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1995,0.063599406,0.082592354,0.049959259
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1995,0.079754774,0.102795104,0.062920028
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1995,0.072344666,0.093496566,0.057370377
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1995,403.3291125,571.0171628,272.4950937
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1995,622.0321204,877.3183299,410.2620562
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1995,510.4991028,721.1124606,340.0361002
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1996,1041776.482,1473537.719,704737.8175
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1996,1544344.975,2178414.068,1024947.515
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1996,2586121.457,3658129.026,1730478.595
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1996,0.063458421,0.081905398,0.050066264
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1996,0.079539994,0.10239793,0.063155508
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1996,0.072167189,0.093016012,0.057504835
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1996,401.4381536,567.8130301,271.5636732
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1996,618.7345559,872.7713581,410.6404047
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1996,507.9706753,718.5363498,339.9037497
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1997,1038820.052,1458661.965,705759.9231
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1997,1539081.007,2166211.204,1027169.048
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1997,2577901.059,3626719.089,1733238.515
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1997,0.063384545,0.081846999,0.049865539
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1997,0.079394579,0.102284629,0.063096703
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1997,0.072055042,0.092875547,0.05738772
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1997,399.6994445,561.2390483,271.5502544
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1997,615.4208353,866.1867065,410.726421
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1997,505.4844307,711.1405721,339.8598565
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1998,1039224.74,1450477.127,703840.1036
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1998,1537519.951,2156532.211,1024619.96
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1998,2576744.691,3619216.694,1729482.927
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1998,0.063335532,0.081824573,0.050182142
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1998,0.079273256,0.102407674,0.062926959
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1998,0.071964441,0.092975165,0.057617492
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1998,398.6232873,556.3704733,269.9772678
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1998,613.008124,859.8078772,408.5152581
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1998,503.7436313,707.5428801,338.1072301
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1999,1039826.66,1451468.899,706774.0415
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1999,1539130.059,2162349.809,1034442.955
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1999,2578956.718,3613295.813,1741412.508
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1999,0.063175288,0.081850677,0.050369311
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1999,0.079167137,0.102394181,0.062809763
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1999,0.07183062,0.093036555,0.05770543
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1999,397.2055631,554.4496443,269.9820961
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1999,611.4644528,859.0567351,410.9627332
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1999,502.233422,703.6635814,339.1276624
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2000,1042989.471,1457157.908,709629.9346
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2000,1542496.872,2154520.706,1035445.564
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2000,2585486.343,3614128.785,1745585.784
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2000,0.063176126,0.081961415,0.05025508
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2000,0.079172354,0.102436888,0.062824437
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2000,0.071830338,0.093085684,0.057723983
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2000,396.6153758,554.1103215,269.8494577
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2000,610.5761561,852.8373672,409.866875
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2000,501.4497771,700.9528703,338.552785
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2001,1047675.061,1462447.775,714394.8718
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2001,1548876.329,2167332.211,1042005.427
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2001,2596551.39,3623334.273,1758663.102
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2001,0.063142231,0.081841893,0.050562278
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2001,0.079218583,0.102572685,0.063101403
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2001,0.071833651,0.093050629,0.058001318
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2001,396.6478402,553.6800228,270.4685771
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2001,611.1870178,855.2298755,411.1756229
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2001,501.6973769,700.0890901,339.8032747
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2002,1051772.535,1464843.561,714991.4787
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2002,1555374.009,2180316.334,1041732.496
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2002,2607146.544,3638953.261,1757307.295
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2002,0.063142009,0.081682197,0.050522467
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2002,0.079432124,0.103111813,0.063317785
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2002,0.071939249,0.09328594,0.058011128
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2002,397.1468578,553.1215142,269.9791158
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2002,612.8932269,859.1509859,410.4934164
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2002,502.7202411,701.6772667,338.8508978
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2003,1054570.478,1463923.387,719779.3334
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2003,1559766.236,2181313.106,1044793.74
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2003,2614336.715,3641287.169,1766360.147
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2003,0.063129492,0.081415586,0.05074523
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2003,0.079693482,0.103366121,0.063904504
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2003,0.072061361,0.093241757,0.058087079
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2003,398.0866913,552.6121101,271.707372
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2003,615.1462986,860.2742205,412.0495667
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2003,504.2407275,702.314006,340.6870739
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2004,1055936.88,1471663.506,723829.4064
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2004,1561188.223,2186843.757,1041323.64
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2004,2617125.103,3647520.702,1765153.046
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2004,0.063070027,0.081372831,0.050210282
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2004,0.079817149,0.103265923,0.064344114
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2004,0.072088368,0.09327409,0.058085123
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2004,399.2060081,556.3750301,273.6499248
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2004,617.4188692,864.8531801,411.8227735
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2004,505.8551622,705.0168042,341.1803965
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2005,1053145.63,1462514.841,719703.4055
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2005,1557721.834,2180615.992,1037253.517
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2005,2610867.465,3638364.331,1759985.132
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2005,0.062900582,0.08118564,0.049989634
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2005,0.079862343,0.103013248,0.064852794
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2005,0.072022523,0.092914305,0.058226301
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2005,399.608037,554.9400461,273.0859406
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2005,619.0864375,866.6436819,412.2363637
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2005,506.8062481,706.2579011,341.6379704
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2006,1047274.873,1455870.525,709433.1262
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2006,1549272.189,2173742.86,1032145.97
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2006,2596547.062,3621182.831,1741605.574
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2006,0.062563389,0.080294421,0.049681888
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2006,0.079625557,0.102514126,0.064745842
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2006,0.071730029,0.092312711,0.058078755
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2006,399.2664657,555.0407961,270.4665837
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2006,619.3798318,869.0354711,412.6391745
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2006,506.7100225,706.6652713,339.8702117
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2007,1041136.741,1444201.958,702402.7234
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2007,1537148.055,2153088.538,1015049.788
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2007,2578284.796,3597162.803,1716481.641
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2007,0.062148835,0.079784556,0.04962359
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2007,0.079154917,0.101788642,0.064409879
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2007,0.071273344,0.091807916,0.057622973
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2007,398.8163356,553.2139152,269.0613723
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2007,618.7804449,866.7278856,408.6092796
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2007,506.0695331,706.0564074,336.913542
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2008,1032970.088,1436548.066,694778.2659
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2008,1520492.73,2123870.282,1003875.341
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2008,2553462.818,3559815.461,1697346.838
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2008,0.061762703,0.07924962,0.049459596
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2008,0.078729028,0.101251092,0.063908205
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2008,0.070850044,0.090986157,0.057338746
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2008,398.1964225,553.7704405,267.8279101
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2008,617.8791937,863.0723657,407.942553
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2008,505.1413397,704.2240594,335.7793384
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2009,1025132.827,1426958.913,688215.2965
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2009,1500658.337,2101052.538,993439.7119
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2009,2525791.164,3527850.576,1674054.327
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2009,0.061451932,0.07898854,0.049242581
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2009,0.078235901,0.100573552,0.063548462
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2009,0.070423029,0.090399059,0.056945528
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2009,398.33994,554.4791002,267.422555
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2009,617.6058823,864.702094,408.8566962
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2009,504.8238551,705.1030795,334.5892451
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2010,1012782.835,1410263.157,679683.2981
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2010,1478740.611,2069034.57,975550.0088
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2010,2491523.446,3478784.755,1652582.242
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2010,0.061407114,0.078898111,0.049065485
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2010,0.078062417,0.099983936,0.063365711
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2010,0.070305125,0.090149633,0.056757983
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2010,399.1266489,555.7693006,267.8557611
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2010,618.5821303,865.5120464,408.0890173
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2010,505.5820595,705.9179652,335.343396
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2011,999143.0657,1394145.041,669108.5854
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2011,1455754.897,2038528.625,959767.9661
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2011,2454897.963,3430784.568,1626198.333
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2011,0.061535123,0.078646237,0.049294528
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2011,0.078018382,0.099336789,0.063119626
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2011,0.070343023,0.089656107,0.056752025
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2011,400.5397384,558.8894213,268.234437
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2011,620.8177486,869.3460378,409.3003494
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2011,507.274183,708.929033,336.033694
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2012,983684.2082,1372813.233,660962.2997
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2012,1430499.541,1994054.113,946143.9647
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2012,2414183.749,3370968.397,1596608.883
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2012,0.061701586,0.078765856,0.048978138
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2012,0.078011436,0.099759219,0.06336213
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2012,0.070420535,0.089704476,0.056684427
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2012,401.9362953,560.9355729,270.071163
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2012,623.269569,868.8106579,412.2355332
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2012,509.0511203,710.7972786,336.6585253
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2013,968739.0781,1351955.043,654490.8735
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2013,1405614.859,1966101.422,930011.3744
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2013,2374353.938,3320559.504,1581198.839
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2013,0.061975462,0.078654765,0.04954462
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2013,0.078063972,0.099606438,0.063088518
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2013,0.070581839,0.089698431,0.056813992
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2013,403.7333062,563.4430279,272.7667028
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2013,626.2950061,876.0290872,414.3819877
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2013,511.2969683,715.0543063,340.4977496
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2014,954946.8554,1328211.112,644735.1939
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2014,1381596.581,1925977.119,915180.2446
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2014,2336543.436,3260581.636,1559686.306
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2014,0.062201096,0.079007326,0.049340515
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2014,0.078080207,0.098906666,0.062654612
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2014,0.070697212,0.089362921,0.056833912
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2014,405.3093498,563.7343891,273.6458063
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2014,628.8295541,876.6027288,416.5415528
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2014,513.1666849,716.1098925,342.5483295
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2015,943021.3861,1314303.52,635287.4763
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2015,1359239.706,1892630.521,903752.7651
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2015,2302261.092,3214358.588,1539743.273
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2015,0.062479552,0.079400939,0.049134133
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2015,0.078131558,0.098707993,0.062527673
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2015,0.070854268,0.089331507,0.056659925
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2015,406.6447926,566.7471496,273.9453716
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2015,630.6014055,878.0610673,419.284223
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2015,514.5297598,718.3734104,344.1155042
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2016,935370.0819,1305016.638,631130.6741
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2016,1340794.012,1865876.174,891806.7133
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2016,2276164.094,3179190.945,1524215.426
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2016,0.06293675,0.08023544,0.049515304
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2016,0.078212751,0.098894755,0.062425796
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2016,0.07111266,0.089935928,0.056859713
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2016,408.2225278,569.5469645,275.4436604
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2016,631.4354738,878.7184275,419.9887451
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2016,515.5839593,720.1325507,345.2567529
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2017,933994.2115,1311256.492,634189.1501
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2017,1327594.746,1851799.63,878955.3704
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2017,2261588.957,3161396.491,1513656.168
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2017,0.063834635,0.081500521,0.049935167
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2017,0.078536218,0.09922323,0.062285614
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2017,0.071708599,0.090786206,0.057310279
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2017,410.7647275,576.6822846,278.9123639
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2017,631.5187714,880.8759081,418.10712
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2017,516.814255,722.43666,345.8979946
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2018,934870.576,1312096.326,632481.9308
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2018,1319827.443,1845372.229,878545.6677
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2018,2254698.019,3143570.914,1511027.598
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2018,0.064695476,0.082725106,0.0507668
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2018,0.078873124,0.099088562,0.062576438
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2018,0.072296701,0.091555388,0.057525923
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2018,412.8049255,579.3741296,279.2810716
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2018,631.3504963,882.7492403,420.2596681
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2018,517.707065,721.8034777,346.9509692
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2019,935569.3615,1311056.879,634371.0506
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2019,1315061.718,1841803.904,878251.1986
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2019,2250631.079,3148382.682,1512622.249
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2019,0.065232683,0.083282626,0.051323334
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2019,0.079028797,0.099269801,0.062922212
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2019,0.072635893,0.091926015,0.057995082
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2019,413.8622302,579.9644002,280.6229325
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2019,630.8376261,883.5168623,421.2987829
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2019,517.9568566,724.5640621,348.1126127
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2020,932616.8034,1311262.354,627907.3664
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2020,1309293.535,1828272.139,872059.3794
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2020,2241910.338,3138187.612,1499966.746
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2020,0.062419797,0.079392421,0.049170114
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2020,0.074733478,0.093232657,0.059666737
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2020,0.069059134,0.086795996,0.055570225
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2020,412.8848787,580.5175245,277.9849728
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2020,628.8473975,878.1103288,418.8459322
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2020,516.4698868,722.9456831,345.5480097
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2021,929845.71,1307306.752,624671.1385
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2021,1311535.287,1844046.259,878511.2621
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2021,2241380.997,3151137.32,1504734.379
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2021,0.061051491,0.077266108,0.047664752
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2021,0.073577407,0.092065431,0.058890692
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2021,0.067798484,0.085225739,0.054634607
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2021,411.6929302,578.8153257,276.5756605
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2021,629.9886746,885.7773562,421.9879947
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2021,516.3960835,725.9965944,346.6786508
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2022,928199.2193,1301234.45,624055.2366
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2022,1316317.615,1840684.262,880790.863
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2022,2244516.834,3142014.433,1507116.368
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2022,0.060158888,0.07629642,0.046845957
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2022,0.073159524,0.091608571,0.057679003
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2022,0.067150226,0.084647567,0.053466766
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2022,409.7094954,574.3681945,275.4595681
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2022,630.3269297,881.423181,421.7722183
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2022,515.5287456,721.6692405,346.1599392
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,922243.0956,1291112.274,620490.2012
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,1306861.93,1830247.209,879625.7955
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2229105.025,3125171.553,1500277.293
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.059209955,0.074622317,0.04673126
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.071675073,0.089599935,0.05637455
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.065925257,0.082772602,0.052155906
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,405.1051436,567.1348756,272.5569573
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,622.5863975,871.9260933,419.0519617
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,509.435467,714.2208248,342.870549
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1990,9702845.559,12235099.98,7753142.372
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1990,14523880,18214267.53,11518988.21
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1990,24226725.56,30449367.51,19255061.19
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1990,0.039240744,0.049516667,0.031517024
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1990,0.059278592,0.074170656,0.0471439
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1990,0.049213539,0.061774175,0.039319416
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1990,3693.24307,4657.107849,2951.117707
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1990,5767.20177,7232.595971,4574.007031
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1990,4708.28992,5917.615642,3742.082696
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1991,9632882.428,12111268.33,7710317.989
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1991,14412394.14,18027418.8,11474151.6
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1991,24045276.57,30138687.13,19169852.46
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1991,0.03913822,0.049266354,0.0314996
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1991,0.059075654,0.073727972,0.047040881
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1991,0.049062755,0.061443454,0.039216
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1991,3677.467787,4623.621171,2943.505876
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1991,5742.917048,7183.398521,4572.113431
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1991,4688.076479,5876.100856,3737.521345
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1992,9558938.77,11979865.63,7657318.443
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1992,14292092.04,17827266.65,11421609.31
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1992,23851030.81,29807084.79,19076819.6
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1992,0.039044178,0.049017799,0.031441612
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1992,0.058840635,0.07325245,0.047026679
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1992,0.048903011,0.061107938,0.039128499
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1992,3662.177427,4589.671987,2933.637241
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1992,5715.261582,7128.941788,4567.384867
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1992,4666.72792,5832.098241,3732.598702
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1993,9491334.066,11860962.57,7619938.941
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1993,14185083.16,17652072.07,11377753.86
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1993,23676417.22,29513034.64,18997692.8
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1993,0.038950162,0.048756869,0.031379788
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1993,0.058586925,0.072787355,0.046992427
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1993,0.04873679,0.06075352,0.039116253
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1993,3646.820128,4557.29371,2927.780912
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1993,5685.850465,7075.534282,4560.580038
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1993,4644.768952,5789.779157,3726.910742
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1994,9433884.519,11753383.72,7598199.25
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1994,14098793.07,17524083.12,11348222.28
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1994,23532677.59,29261121.14,18940214.36
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1994,0.038854876,0.048488098,0.031313152
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1994,0.058326322,0.072426724,0.046943439
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1994,0.048568742,0.06042341,0.039096911
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1994,3631.521814,4524.400237,2924.884894
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1994,5656.035506,7030.164629,4552.584595
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1994,4622.883504,5748.209217,3720.715767
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1995,9385514.195,11664452.67,7597638.346
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1995,14033729.36,17443576.58,11333747.96
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1995,23419243.56,29108029.25,18904168.58
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1995,0.038765836,0.048284173,0.031323738
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1995,0.058086684,0.072127209,0.046904428
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1995,0.048415862,0.06021224,0.039084984
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1995,3616.964221,4495.215402,2927.957434
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1995,5628.458914,6996.03445,4545.586787
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1995,4602.647357,5720.679814,3715.287445
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1996,9347668.385,11595880.57,7586136.722
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1996,13978208.1,17353673.57,11298371.93
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1996,23325876.48,28949554.13,18847745.5
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1996,0.038678252,0.048079789,0.031342175
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1996,0.057841293,0.071725832,0.046747571
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1996,0.048259267,0.059921527,0.039001563
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1996,3602.03057,4468.35666,2923.241953
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1996,5600.303379,6952.667754,4526.639611
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1996,4581.71104,5686.324021,3702.108416
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1997,9323986.57,11541788.56,7583053.81
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1997,13937989.08,17280506.18,11276713.47
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1997,23261975.65,28822294.74,18817453.41
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1997,0.038604585,0.047880778,0.031372997
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1997,0.05760856,0.071331,0.046607461
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1997,0.048114523,0.059635137,0.038933397
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1997,3587.524372,4440.85236,2917.677986
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1997,5573.279664,6909.82703,4509.13525
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1997,4561.294731,5651.582786,3689.796275
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1998,9319714.54,11511100.51,7592652.372
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1998,13921770.59,17238549.83,11272987.8
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1998,23241485.13,28749650.34,18834698.4
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1998,0.038549627,0.04770267,0.031403426
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1998,0.057415419,0.070992388,0.046492645
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1998,0.047996195,0.059383932,0.03888801
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1998,3574.833339,4415.399816,2912.371052
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1998,5550.600151,6872.997705,4494.532315
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1998,4543.620544,5620.445562,3682.110765
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1999,9330563.07,11501140.41,7610872.742
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1999,13929441.15,17230878.51,11284354.81
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1999,23260004.22,28732018.92,18880953.42
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1999,0.038506522,0.04754688,0.0314184
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1999,0.057274991,0.070738631,0.04640371
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1999,0.047907714,0.05918324,0.038892532
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1999,3564.201325,4393.344708,2907.293216
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1999,5533.878091,6845.470688,4483.040145
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1999,4529.719879,5595.355704,3676.930977
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2000,9355714.796,11514572.18,7636222.926
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2000,13959377.26,17258822.67,11307367.74
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2000,23315092.06,28773394.85,18940280.49
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2000,0.038489282,0.047445424,0.031423903
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2000,0.05721334,0.070616052,0.046358732
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2000,0.04786861,0.059071487,0.038902225
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2000,3557.677658,4378.621741,2903.810162
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2000,5525.627356,6831.667407,4475.865887
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2000,4521.914319,5580.540958,3673.42858
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2001,9400181.19,11557730.33,7675625.555
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2001,14015294.99,17295934.48,11356694.55
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2001,23415476.18,28853664.81,19009681.57
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2001,0.038543949,0.047475889,0.03147924
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2001,0.05728358,0.070571272,0.046418593
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2001,0.047928484,0.059062365,0.038933228
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2001,3558.891212,4375.735324,2905.977638
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2001,5530.439188,6824.980416,4481.354736
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2001,4524.263615,5575.013074,3672.990035
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2002,9440351.558,11595414.44,7706941.739
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2002,14072209.17,17333403.69,11405282.02
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2002,23512560.73,28928818.13,19071409.1
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2002,0.038649443,0.047567354,0.03156813
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2002,0.057460141,0.07065451,0.046566442
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2002,0.048066941,0.059147706,0.039018557
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2002,3564.654745,4378.401466,2910.123237
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2002,5545.136821,6830.206534,4494.237437
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2002,4533.78435,5578.168383,3677.424042
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2003,9463134.08,11612177.32,7721939.208
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2003,14110715.36,17350096.77,11437270.29
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2003,23573849.44,28962274.09,19122438.34
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2003,0.038768974,0.047678452,0.031656324
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2003,0.057688902,0.070811051,0.046750632
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2003,0.048238482,0.059279498,0.039131023
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2003,3572.210499,4383.446476,2914.931996
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2003,5565.035401,6842.59446,4510.672384
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2003,4546.811022,5586.104526,3688.244197
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2004,9468083.352,11607836.43,7721289.746
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2004,14122779.57,17337323.21,11446451.22
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2004,23590862.92,28945159.65,19139562.81
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2004,0.038874145,0.047777462,0.031719582
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2004,0.057914471,0.070977345,0.046927898
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2004,0.048399797,0.059408568,0.039262725
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2004,3579.490243,4388.442276,2919.099915
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2004,5585.278227,6856.566257,4526.843635
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2004,4559.797228,5594.710933,3699.420651
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2005,9443080.873,11567969.24,7693927.258
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2005,14088908.74,17272190.25,11417061.28
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2005,23531989.62,28840159.48,19092275.36
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2005,0.038922653,0.047811253,0.031730221
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2005,0.058065104,0.071068333,0.047040572
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2005,0.048494084,0.059465808,0.039335814
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2005,3583.104655,4389.377258,2919.401724
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2005,5599.364488,6864.498199,4537.490353
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2005,4567.891526,5598.282264,3706.080287
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2006,9391620.963,11519146.49,7634993.993
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2006,14009923.57,17205015.79,11323308.96
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2006,23401544.53,28724162.28,18957258.63
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2006,0.038887368,0.047833786,0.031642647
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2006,0.058076511,0.071216021,0.046928921
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2006,0.048476093,0.059543631,0.039261894
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2006,3580.492006,4391.59673,2910.789848
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2006,5600.993913,6878.352211,4526.918669
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2006,4566.756108,5605.452383,3699.464219
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2007,9331638.183,11460939.34,7586482.986
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2007,13895921.13,17093714.78,11203568.51
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2007,23227559.31,28554654.12,18790051.5
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2007,0.038807811,0.047806585,0.031543318
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2007,0.057994569,0.071246024,0.046764563
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2007,0.048383833,0.059530937,0.039135235
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2007,3574.563839,4390.210863,2906.067211
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2007,5593.816568,6881.091514,4510.007403
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2007,4559.139516,5604.749523,3688.138953
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2008,9259912.87,11386851.64,7530923.317
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2008,13743848.04,16931625.07,11057544.41
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2008,23003760.91,28318476.72,18588467.73
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2008,0.038739569,0.047788289,0.031504164
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2008,0.0579005,0.071245986,0.046630303
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2008,0.048286294,0.059501697,0.039015758
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2008,3569.574976,4389.48198,2903.072177
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2008,5585.056464,6880.466209,4493.429327
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2008,4550.742045,5602.131023,3677.282248
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2009,9189003.828,11317053.26,7477307.592
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2009,13565267.57,16732545.28,10905662.18
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2009,22754271.4,28045096.17,18372432.06
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2009,0.038742188,0.047853585,0.0315171
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2009,0.057880381,0.071319749,0.04653411
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2009,0.048253776,0.059542186,0.038922821
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2009,3570.607764,4397.512397,2905.48715
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2009,5582.875756,6886.389884,4488.297532
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2009,4547.841947,5605.306474,3672.054171
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2010,9074537.68,11193225.77,7390494.564
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2010,13367822.3,16504984.85,10764275.02
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2010,22442359.98,27682968.11,18113304.17
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2010,0.038817924,0.048013913,0.031583166
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2010,0.057990525,0.071533735,0.046654548
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2010,0.048336667,0.059702686,0.038947419
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2010,3576.176145,4411.127971,2912.513154
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2010,5591.985461,6904.313452,4502.877734
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2010,4554.022801,5617.451465,3675.567108
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2011,8950217.343,11044180.55,7287538.867
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2011,13160873.39,16249668.46,10599343.75
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2011,22111090.73,27280153.17,17853993.24
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2011,0.038976854,0.048248892,0.031738034
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2011,0.058233368,0.071846174,0.04685294
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2011,0.048528098,0.059968598,0.039123728
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2011,3587.992387,4427.427203,2921.452404
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2011,5612.55456,6929.794715,4520.170761
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2011,4568.982359,5637.104931,3689.306021
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2012,8815755.104,10879722.33,7176460.237
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2012,12940808.01,15979896.51,10425216.37
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2012,21756563.12,26849574.82,17574803.01
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2012,0.039171473,0.04851785,0.031892747
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2012,0.058542284,0.072247409,0.047139083
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2012,0.048769539,0.060300419,0.039376574
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2012,3602.143775,4445.486928,2932.323013
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2012,5638.318365,6962.451174,4542.273468
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2012,4587.55587,5661.460585,3705.796281
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2013,8678737.492,10710247.04,7063899.464
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2013,12713872.65,15701503.4,10246638.49
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2013,21392610.15,26405694.96,17288469.15
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2013,0.039382395,0.048810116,0.032057104
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2013,0.058867667,0.072671101,0.047460276
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2013,0.049026443,0.060651822,0.039653265
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2013,3616.965043,4463.620333,2943.962466
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2013,5664.87676,6996.065173,4565.559671
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2013,4606.717027,5686.242293,3722.925097
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2014,8556953.885,10559056.84,6964420.535
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2014,12500153.26,15437582.8,10078579.01
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2014,21057107.14,25996039.31,17027130.83
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2014,0.039598536,0.049115391,0.032230477
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2014,0.059173538,0.073064099,0.047766169
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2014,0.049274596,0.060987528,0.039893183
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2014,3631.839191,4481.59438,2955.918167
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2014,5689.407393,7026.369669,4587.235111
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2014,4624.697191,5709.417214,3739.607895
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2015,8449837.422,10425391.52,6877708.2
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2015,12300251.57,15197958.01,9923046.527
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2015,20750089,25623349.53,16792260.31
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2015,0.039786248,0.049380302,0.032389622
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2015,0.059397966,0.07336125,0.048016043
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2015,0.049467787,0.061244894,0.040096499
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2015,3643.695082,4495.583276,2965.76967
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2015,5706.540133,7050.892968,4603.66708
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2015,4637.414212,5726.533765,3752.883499
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2016,8384131.083,10334875.29,6820677.944
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2016,12135261.94,14973003.96,9802960.332
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2016,20519393.03,25307879.25,16619762.76
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2016,0.040040431,0.049659298,0.032594889
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2016,0.05953631,0.073434248,0.048104195
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2016,0.049656708,0.06141926,0.040251886
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2016,3659.077033,4510.438163,2976.740913
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2016,5714.997834,7051.40817,4616.620335
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2016,4647.938137,5732.599253,3764.615701
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2017,8367240.447,10308176.83,6800755.751
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2017,12019744.37,14812986.7,9720688.571
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2017,20386984.82,25121163.53,16521444.32
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2017,0.040393892,0.050069252,0.032857584
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2017,0.059626417,0.073466715,0.048188547
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2017,0.04987895,0.061641329,0.040445603
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2017,3679.859254,4533.470759,2990.929225
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2017,5717.628984,7046.336387,4623.999397
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2017,4658.79723,5740.643265,3775.450845
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2018,8375043.057,10313701.32,6802080.264
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2018,11947961.48,14710520.8,9674989.451
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2018,20323004.53,25024222.13,16474072.71
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2018,0.04073086,0.050475627,0.033108067
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2018,0.059665919,0.073453136,0.048312909
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2018,0.050072619,0.061849111,0.040617951
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2018,3698.115133,4554.156282,3003.551838
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2018,5715.407304,7036.900663,4628.112124
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2018,4666.417826,5745.876601,3782.654598
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2019,8382734.68,10319532.93,6811860.796
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2019,11903133.19,14643302.87,9649182.467
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2019,20285867.87,24962835.79,16446334.99
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2019,0.040953715,0.050755279,0.033282475
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2019,0.059658354,0.073390488,0.048380732
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2019,0.050186019,0.06196631,0.040719445
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2019,3708.220269,4564.99014,3013.322172
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2019,5709.955803,7024.420446,4628.73132
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2019,4668.559167,5744.90954,3784.934835
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2020,8374267.681,10310463.11,6812214.228
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2020,11878831.07,14601354.69,9638814.625
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2020,20253098.75,24906665.62,16423241.78
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2020,0.04090742,0.050699142,0.033245174
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2020,0.059549983,0.073225888,0.048354261
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2020,0.050107486,0.061854477,0.040679806
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2020,3707.426762,4564.612492,3015.879871
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2020,5705.345518,7012.960542,4629.476378
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2020,4665.715412,5737.759694,3783.429551
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2021,8354493.875,10318542.17,6765922.065
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2021,11917714.16,14675860.58,9671737.732
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2021,20272208.03,24994402.75,16435526.16
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2021,0.040784218,0.050676886,0.033134913
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2021,0.059758362,0.073595463,0.048535884
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2021,0.05014379,0.062016715,0.040704988
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2021,3698.985785,4568.576072,2995.639223
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2021,5724.607659,7049.467938,4645.765384
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2021,4670.553042,5758.508574,3786.612518
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2022,8342973.195,10339431.23,6749547.513
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2022,11964695.68,14754077.12,9710677.988
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2022,20307668.88,25093508.34,16460225.5
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2022,0.040421634,0.050373456,0.03279915
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2022,0.059723976,0.073664024,0.048519248
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2022,0.049928491,0.061876133,0.040554308
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2022,3682.609581,4563.851232,2979.267433
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2022,5729.369425,7065.082185,4650.018941
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2022,4664.338847,5763.567768,3780.644135
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,8292122.317,10268500.04,6711094.188
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,11880306.92,14644857.23,9643669.579
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,20172429.24,24909806.27,16354763.77
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.039985691,0.049750459,0.032460184
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.059000127,0.072706538,0.047930757
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.049352583,0.061087072,0.040106127
+5,Prevalence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,3642.403416,4510.548468,2947.919901
+5,Prevalence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,5659.754346,6976.78056,4594.224812
+5,Prevalence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4610.169011,5692.840242,3737.68693
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1990,4509876.355,5618340.767,3588311.637
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1990,6726704.703,8357499.069,5362619.621
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1990,11236581.06,13985328.34,8935779.728
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1990,0.004627049,0.005878446,0.003468928
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1990,0.006705805,0.008465717,0.005149841
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1990,0.005681262,0.007212733,0.004320198
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1990,1716.616996,2138.537399,1365.837167
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1990,2671.067461,3318.629969,2129.410968
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1990,2183.748736,2717.948007,1736.604541
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1991,4460479.99,5548877.152,3558722.509
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1991,6644260.721,8233583.434,5302446.388
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1991,11104740.71,13791825.03,8845366.943
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1991,0.004569734,0.005806255,0.003429396
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1991,0.006637398,0.008378667,0.005101751
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1991,0.005616507,0.007129089,0.004274273
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1991,1702.84145,2118.350051,1358.584773
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1991,2647.543342,3280.841906,2112.869621
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1991,2165.076936,2688.97429,1724.569754
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1992,4411901.241,5483310.634,3529557.387
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1992,6562731.125,8112408.039,5243675.974
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1992,10974632.37,13606653.99,8748128.833
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1992,0.004523052,0.005746441,0.003400072
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1992,0.006574555,0.008297517,0.005053542
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1992,0.005560546,0.007054141,0.004233542
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1992,1690.267668,2100.741193,1352.228077
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1992,2624.369124,3244.069089,2096.892447
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1992,2147.31278,2662.298018,1711.67181
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1993,4370017.998,5429036.062,3504695.926
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1993,6494041.657,8012860.232,5195367.504
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1993,10864059.65,13452495.33,8666434.394
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1993,0.004483969,0.005696704,0.003376837
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1993,0.006518045,0.008223709,0.005006849
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1993,0.00551213,0.006987491,0.004198103
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1993,1679.075827,2085.978414,1346.596333
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1993,2603.02667,3211.819385,2082.475119
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1993,2131.278837,2639.070433,1700.155265
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1994,4337035.235,5388511.021,3485630.144
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1994,6442479.502,7940321.448,5160252.102
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1994,10779514.74,13325876.56,8610129.919
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1994,0.004453912,0.005657912,0.003360563
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1994,0.006471112,0.008161967,0.004966115
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1994,0.005473598,0.006932944,0.004169757
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1994,1669.517793,2074.277598,1341.774099
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1994,2584.53987,3185.431534,2070.14664
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1994,2117.584821,2617.805589,1691.419407
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1995,4313416.017,5354635.635,3472918.665
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1995,6409750.41,7892281.907,5135754.472
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1995,10723166.43,13233265.79,8581015.927
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1995,0.004433521,0.005631157,0.003351544
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1995,0.006438646,0.008119561,0.004933476
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1995,0.005447508,0.006894439,0.004143745
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1995,1662.292665,2063.555081,1338.384056
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1995,2570.736252,3165.329992,2059.779143
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1995,2107.452937,2600.769562,1686.450298
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1996,4298657.505,5331028.335,3467015.906
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1996,6387891.464,7857050.326,5114960.521
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1996,10686548.97,13171708.08,8578541.319
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1996,0.00442359,0.005610387,0.003347277
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1996,0.00641421,0.008069207,0.004912057
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1996,0.005431032,0.0068509,0.004135373
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1996,1656.444699,2054.258479,1335.979922
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1996,2559.278693,3147.890286,2049.284893
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1996,2099.071365,2587.210833,1685.012672
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1997,4291197.485,5314626.334,3460124.101
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1997,6373853.648,7831752.565,5117806.323
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1997,10665051.13,13130780.52,8581484.591
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1997,0.004421395,0.005588667,0.003346594
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1997,0.006395958,0.008031853,0.004896765
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1997,0.005421649,0.006819524,0.004132775
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1997,1651.093708,2044.871189,1331.32748
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1997,2548.665286,3131.624445,2046.419017
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1997,2091.242906,2574.732297,1682.689426
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1998,4292116.067,5311105.637,3458953.227
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1998,6369752.948,7819972.916,5121327.113
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1998,10661869.02,13117843.85,8591625.015
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1998,0.004420147,0.005570091,0.003354204
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1998,0.006380183,0.008000425,0.004882982
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1998,0.005413696,0.00679853,0.004130819
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1998,1646.359397,2037.220928,1326.77683
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1998,2539.616024,3117.817706,2041.869521
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1998,2084.354198,2564.48779,1679.629495
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,1999,4298608.118,5317464.407,3463984.127
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,1999,6374607.183,7821079.002,5128741.803
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,1999,10673215.3,13129219.52,8611401.624
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,1999,0.004420155,0.005560676,0.003363588
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,1999,0.006366929,0.007975865,0.004873011
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,1999,0.005407629,0.006783374,0.00413042
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,1999,1642.034316,2031.229364,1323.21455
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,1999,2532.499233,3107.152489,2037.542755
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,1999,2078.532535,2556.821835,1677.009031
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2000,4309293.289,5323228.547,3471153.688
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2000,6387202.064,7834269.351,5146583.025
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2000,10696495.35,13161727.98,8624799.221
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2000,0.004425787,0.005564645,0.003374236
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2000,0.006367998,0.007973061,0.004879056
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2000,0.005411232,0.006784099,0.004139581
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2000,1638.685744,2024.252736,1319.96819
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2000,2528.286025,3101.087694,2037.204054
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2000,2074.56335,2552.690166,1672.762132
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2001,4324900.358,5341539.018,3480781.72
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2001,6409618.816,7862646.82,5158679.74
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2001,10734519.17,13208099.4,8647635.454
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2001,0.004430138,0.005566708,0.003379557
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2001,0.006369693,0.007973678,0.004873886
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2001,0.005414535,0.006786249,0.004139027
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2001,1637.399276,2022.296793,1317.817521
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2001,2529.237315,3102.602558,2035.616418
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2001,2074.089553,2552.026833,1670.868537
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2002,4335003.907,5361971.412,3489489.346
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2002,6430676.155,7892916.59,5175859.734
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2002,10765680.06,13254888,8662797.011
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2002,0.00443531,0.005572311,0.003384462
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2002,0.006375996,0.007983711,0.004878981
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2002,0.005420831,0.006795205,0.004143923
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2002,1636.887371,2024.667907,1317.623044
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2002,2534.000078,3110.194134,2039.541201
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2002,2075.880732,2555.859588,1670.394559
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2003,4335439.413,5361249.405,3491351.397
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2003,6441382.968,7910084.914,5176206.463
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2003,10776822.38,13274468.85,8670687.243
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2003,0.004440907,0.005579351,0.003393015
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2003,0.006386829,0.008001217,0.004885686
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2003,0.005429638,0.006808632,0.004149999
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2003,1636.572203,2023.802183,1317.939914
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2003,2540.376115,3119.608146,2041.411189
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2003,2078.581817,2560.315889,1672.360572
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2004,4328176.256,5351432.674,3484180.433
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2004,6438313.334,7909392.437,5163611.256
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2004,10766489.59,13268764.74,8656953.464
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2004,0.004444822,0.005590778,0.003395275
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2004,0.006393489,0.008015621,0.004888657
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2004,0.005435455,0.006819895,0.004153626
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2004,1636.304213,2023.155092,1317.224342
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2004,2546.224779,3128.007284,2042.105478
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2004,2081.017958,2564.674166,1673.272933
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2005,4309524.532,5327781.148,3459947.464
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2005,6412774.93,7881992.729,5131742.711
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2005,10722299.46,13222038.02,8614288.267
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2005,0.004451855,0.005610729,0.003399379
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2005,0.006405753,0.008047173,0.004889759
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2005,0.00544515,0.006841616,0.004159091
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2005,1635.216051,2021.585719,1312.850544
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2005,2548.633458,3132.545677,2039.511961
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2005,2081.349756,2566.584315,1672.155012
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2006,4281140.263,5305668.626,3432079.897
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2006,6363053.666,7832320.381,5081451.471
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2006,10644193.93,13137989.01,8534120.668
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2006,0.004456132,0.005626639,0.003396237
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2006,0.006406124,0.008075719,0.004887374
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2006,0.005447301,0.006859586,0.004156216
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2006,1632.155786,2022.750298,1308.45726
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2006,2543.870042,3131.264676,2031.501359
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2006,2077.189289,2563.847505,1665.413479
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2007,4249669.685,5274666.67,3405333.172
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2007,6293426.938,7742707.425,5018797.315
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2007,10543096.62,13020856.76,8435912.961
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2007,0.004459998,0.005630754,0.003392672
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2007,0.006395467,0.00808883,0.004884397
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2007,0.005443246,0.006871436,0.004145793
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2007,1627.872329,2020.506193,1304.442004
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2007,2533.425136,3116.834406,2020.321742
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2007,2069.414517,2555.752923,1655.813408
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2008,4213945.059,5226848.176,3374793.751
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2008,6207383.341,7629591.779,4957826.562
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2008,10421328.4,12872909.71,8323425.447
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2008,0.004464355,0.005627645,0.003395301
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2008,0.006383867,0.008097047,0.004899085
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2008,0.005438268,0.006881581,0.00415132
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2008,1624.420558,2014.881427,1300.938733
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2008,2522.480337,3100.419965,2014.700774
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2008,2061.60973,2546.596258,1646.589976
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2009,4179899.715,5173851.799,3345609.401
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2009,6114016.136,7504920.026,4891583.749
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2009,10293915.85,12713551.12,8209130.433
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2009,0.004476231,0.005635253,0.003410026
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2009,0.006376251,0.008093182,0.004908838
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2009,0.005438723,0.006895598,0.004162066
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2009,1624.200257,2010.424171,1300.016751
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2009,2516.263854,3088.699566,2013.163705
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2009,2057.420407,2541.027137,1640.739318
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2010,4127533.513,5097637.905,3303078.447
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2010,6021316.341,7381801.39,4825926.078
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2010,10148849.85,12526004.93,8086850.262
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2010,0.004490059,0.005647444,0.003421076
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2010,0.006378852,0.008080219,0.004911177
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2010,0.005446848,0.006903403,0.004173825
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2010,1626.615857,2008.923398,1301.707125
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2010,2518.81815,3087.931985,2018.766248
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2010,2059.413256,2541.787588,1640.990543
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2011,4070996.783,5026915.016,3263805.234
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2011,5934014.196,7272780.248,4754713.876
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2011,10005010.98,12341520.06,7979229.93
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2011,0.004505638,0.005671173,0.003437099
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2011,0.006397743,0.008106173,0.004926886
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2011,0.00546397,0.006919505,0.004188903
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2011,1631.994498,2015.206125,1308.404912
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2011,2530.605489,3101.532455,2027.683898
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2011,2067.411292,2550.221884,1648.808792
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2012,4009210.095,4950571.67,3220328.705
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2012,5846908.983,7167925.686,4682523.016
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2012,9856119.078,12150850.81,7865281.64
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2012,0.004527386,0.005704719,0.003455894
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2012,0.006429773,0.008146789,0.004952455
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2012,0.005491091,0.0069507,0.004209967
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2012,1638.175178,2022.818319,1315.835894
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2012,2547.502,3123.069826,2040.178286
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2012,2078.246306,2562.109955,1658.461346
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2013,3946379.954,4873411.325,3175050.335
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2013,5760071.118,7063693.082,4609403.653
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2013,9706451.072,11959568.44,7754462.538
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2013,0.00454768,0.005735727,0.00347088
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2013,0.006462827,0.008188521,0.004977134
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2013,0.005517942,0.00697995,0.004227524
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2013,1644.69986,2031.050993,1323.239248
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2013,2566.49519,3147.345571,2053.796222
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2013,2090.201856,2575.391557,1669.857692
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2014,3891095.712,4805674.713,3138219.05
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2014,5679323.23,6966253.995,4546907.96
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2014,9570418.942,11785702.8,7656921.716
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2014,0.004565053,0.005763048,0.003479612
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2014,0.00649457,0.008223377,0.004993039
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2014,0.005542073,0.007006226,0.004241186
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2014,1651.502871,2039.678839,1331.958439
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2014,2584.926992,3170.669683,2069.511567
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2014,2101.916911,2588.451789,1681.662353
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2015,3843521.909,4746794.403,3104903.646
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2015,5601708.844,6872364.687,4489338.409
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2015,9445230.752,11626679.32,7568849.589
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2015,0.004585475,0.0057978,0.003489849
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2015,0.006518301,0.008234854,0.004999273
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2015,0.005563864,0.007032145,0.004250956
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2015,1657.383589,2046.888071,1338.880452
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2015,2598.83923,3188.343316,2082.76958
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2015,2110.904071,2598.433574,1691.55374
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2016,3817659.428,4707779.235,3081837.1
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2016,5539443.39,6788567.515,4438635.665
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2016,9357102.819,11515795.38,7502603.481
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2016,0.004621285,0.005853678,0.003513423
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2016,0.006539144,0.008250397,0.005000581
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2016,0.005592184,0.007079008,0.004265964
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2016,1666.136872,2054.610872,1345.002749
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2016,2608.753493,3197.017817,2090.337508
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2016,2119.518593,2608.493558,1699.447776
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2017,3817472.164,4702373.986,3074322.884
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2017,5501719.638,6734107.718,4405430.057
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2017,9319191.802,11466729.27,7473244.51
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2017,0.004687472,0.005946183,0.003559528
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2017,0.006577174,0.008291207,0.005025795
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2017,0.005644895,0.007155635,0.004297356
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2017,1678.900034,2068.07424,1352.067696
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2017,2617.093234,3203.323489,2095.603185
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2017,2129.605007,2620.35642,1707.772441
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2018,3830273.062,4722410.551,3076994.298
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2018,5483438.995,6703528.742,4386527.737
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2018,9313712.057,11458157.74,7459223.617
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2018,0.004754882,0.006034098,0.003606322
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2018,0.006611245,0.008327576,0.005048953
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2018,0.005696547,0.007221427,0.00432821
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2018,1691.309607,2085.245151,1358.689036
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2018,2623.048906,3206.689041,2098.332231
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2018,2138.545602,2630.937342,1712.731698
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2019,3843179.436,4744195.577,3078770.516
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2019,5475000.697,6685615.798,4382756.899
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2019,9318180.133,11463082.97,7451626.412
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2019,0.004801322,0.006090699,0.003637775
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2019,0.006628899,0.008344099,0.005059076
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2019,0.005729367,0.007258746,0.004350238
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2019,1700.084331,2098.66146,1361.937323
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2019,2626.368326,3207.10271,2102.416883
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2019,2144.471981,2638.096698,1714.906111
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2020,3846875.298,4752959.706,3073105.467
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2020,5471650.133,6676507.699,4381543.073
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2020,9318525.431,11464234.74,7454381.706
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2020,0.004588288,0.005803203,0.003491075
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2020,0.006318033,0.007926788,0.004850538
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2020,0.005467122,0.006899409,0.004174151
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2020,1703.075298,2104.213847,1360.514601
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2020,2628.007283,3206.694587,2104.434097
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2020,2146.712869,2641.020882,1717.269246
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2021,3853389.506,4753094.212,3084268.073
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2021,5494055.11,6720854.707,4409785.664
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2021,9347444.617,11511480.49,7497119.039
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2021,0.004353928,0.005479198,0.003325273
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2021,0.006046638,0.007539798,0.00464377
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2021,0.005211356,0.006519848,0.003994859
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2021,1706.103712,2104.451591,1365.572102
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2021,2639.038791,3228.325149,2118.215998
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2021,2153.575763,2652.152154,1727.275691
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2022,3862923.413,4760189.114,3097665.048
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2022,5520095.289,6768740.739,4438020.296
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2022,9383018.702,11556092.28,7540280.442
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2022,0.003500326,0.004390269,0.002709556
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2022,0.004987058,0.006251296,0.003899863
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2022,0.004244764,0.005319969,0.003311956
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2022,1705.104216,2101.159578,1367.317228
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2022,2643.332183,3241.253874,2125.1738
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2022,2155.125677,2654.245078,1731.878887
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,1,Number,2023,3839230.636,4730948.332,3081779.944
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,1,Number,2023,5483277.88,6725087.433,4413358.731
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,9322508.516,11478602.67,7498743.378
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,2,Percent,2023,0.003446189,0.004354421,0.002653404
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,2,Percent,2023,0.004947583,0.006255238,0.003866832
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,2,Percent,2023,0.004194881,0.005320045,0.003244172
+6,Incidence,44635,High SDI,1,Male,159,10-24 years,630,Low back pain,3,Rate,2023,1686.423119,2078.119655,1353.704802
+6,Incidence,44635,High SDI,2,Female,159,10-24 years,630,Low back pain,3,Rate,2023,2612.222565,3203.818141,2102.515232
+6,Incidence,44635,High SDI,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2130.54855,2623.298251,1713.748698

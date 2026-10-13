@@ -1,0 +1,7 @@
+Location,Measure,EAPC,95% CI,P value,Total change (%)
+China,Incidence,-0.09,-0.09 (-0.28 to 0.10),0.3291,-4.37
+China,Prevalence,-0.062,-0.06 (-0.21 to 0.09),0.403,-3.03
+China,YLDs (Years Lived with Disability),-0.052,-0.05 (-0.20 to 0.10),0.4781,-3.11
+Global,Incidence,-0.186,-0.19 (-0.21 to -0.16),0,-7.8
+Global,Prevalence,-0.175,-0.17 (-0.20 to -0.15),0,-7.39
+Global,YLDs (Years Lived with Disability),-0.171,-0.17 (-0.19 to -0.15),0,-7.51

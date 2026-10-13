@@ -1,0 +1,43 @@
+Methods：
+
+Sensitivity analysis. To assess the robustness of the projections to the choice of age-standardization weights, we repeated the BAPC analysis using three different sets of weights: (1) the age distribution of the study population (adolescents and young adults aged 10–24 years) derived from GBD population data (main analysis); (2) the WHO World Standard Population; and (3) equal weights across the three age groups (10–14, 15–19, 20–24 years). All other model specifications were held constant.
+
+Results：
+
+The projected trends were robust across all three weighting schemes (Supplementary Figure SX). At 2040, the projected age-standardized incidence rate ranged from 1520.9 to 1528.8 per 100,000 at the global level (maximum relative difference: 0.52%) and from X to X per 100,000 in China (maximum relative difference: 1.14%). Both the direction and magnitude of the projected decline were consistent across all scenarios.
+
+Discussion：
+
+The consistency of projections across different age-standardization weights supports the robustness of our findings and indicates that the projected decline is not an artifact of the choice of standard population.
+
+
+
+The projection section is summarized in Figure X. Compared with the global trend, China’s age-standardized incidence rate is projected to remain lower but increase gradually to 2040, while the global rate continues to decline. Sensitivity analyses using different standard populations showed robust results, with maximum differences at 2040 of 1.14% for China and 0.52% globally (Supplementary Figure S2). Detailed BAPC projection plots are provided in Supplementary Figure S1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Methods
+Spearman's rank correlation analysis was used to evaluate the association between SDI and age-standardized rates. The Spearman rank correlation coefficient was denoted by ρ, and P < 0.05 was considered statistically significant.
+
+Results
+SDI was positively correlated with the age-standardized incidence rate of low back pain (ρ = 0.XXX, P < 0.001).
+SDI was positively correlated with the age-standardized YLDs rate of low back pain (ρ = 0.XXX, P < 0.001).
+
+Figure legend
+Figure 1. Correlation between SDI and the age-standardized incidence rate of low back pain. Each point represents a region/year. The curve represents the LOESS smoother. Spearman's ρ and P value are shown.

@@ -1,0 +1,13 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year_start,year_end,val,upper,lower
+1,All Population,3,YLDs (Years Lived with Disability),6,China,1,Male,159,10-24 years,630,Low back pain,108,High body-mass index,3,Rate,1990,2023,1.0510885565620474,2.114727017109237,0.37128520396973874
+1,All Population,3,YLDs (Years Lived with Disability),6,China,2,Female,159,10-24 years,630,Low back pain,108,High body-mass index,3,Rate,1990,2023,0.27351359987958557,1.1390455309141814,-0.25375893074587336
+1,All Population,3,YLDs (Years Lived with Disability),6,China,3,Both,159,10-24 years,630,Low back pain,108,High body-mass index,3,Rate,1990,2023,0.5192023873152675,1.3202112587720871,0.03889134333543246
+1,All Population,3,YLDs (Years Lived with Disability),6,China,1,Male,159,10-24 years,630,Low back pain,132,Occupational ergonomic factors,3,Rate,1990,2023,-0.21216360480725174,0.12565579170420565,-0.6437882003180617
+1,All Population,3,YLDs (Years Lived with Disability),6,China,2,Female,159,10-24 years,630,Low back pain,132,Occupational ergonomic factors,3,Rate,1990,2023,-0.148417567394833,0.23738408216448884,-0.7803217338037088
+1,All Population,3,YLDs (Years Lived with Disability),6,China,3,Both,159,10-24 years,630,Low back pain,132,Occupational ergonomic factors,3,Rate,1990,2023,-0.18265894575631983,0.18556036849339197,-0.7594949313376972
+1,All Population,3,YLDs (Years Lived with Disability),1,Global,1,Male,159,10-24 years,630,Low back pain,108,High body-mass index,3,Rate,1990,2023,0.7651706674136334,1.1479603525749127,0.3848938976592585
+1,All Population,3,YLDs (Years Lived with Disability),1,Global,2,Female,159,10-24 years,630,Low back pain,108,High body-mass index,3,Rate,1990,2023,0.940854664246363,1.6704666481905943,0.43513594562310365
+1,All Population,3,YLDs (Years Lived with Disability),1,Global,3,Both,159,10-24 years,630,Low back pain,108,High body-mass index,3,Rate,1990,2023,0.870836697908849,1.423586936825795,0.4405022769716427
+1,All Population,3,YLDs (Years Lived with Disability),1,Global,1,Male,159,10-24 years,630,Low back pain,132,Occupational ergonomic factors,3,Rate,1990,2023,-0.20853555245671737,-0.00908218393955647,-0.5577689810489089
+1,All Population,3,YLDs (Years Lived with Disability),1,Global,2,Female,159,10-24 years,630,Low back pain,132,Occupational ergonomic factors,3,Rate,1990,2023,-0.14567623240870062,0.15605073085131532,-0.5696715761680972
+1,All Population,3,YLDs (Years Lived with Disability),1,Global,3,Both,159,10-24 years,630,Low back pain,132,Occupational ergonomic factors,3,Rate,1990,2023,-0.17559309325837164,0.010656346019413485,-0.5969058183464541

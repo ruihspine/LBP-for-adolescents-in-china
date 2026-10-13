@@ -1,0 +1,19 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year_start,year_end,val,upper,lower
+1,All Population,3,YLDs (Years Lived with Disability),6,China,1,Male,159,10-24 years,630,Low back pain,3,Rate,1990,2023,0.0507189842933663,0.1109177010842429,-0.0074617828142495
+1,All Population,3,YLDs (Years Lived with Disability),6,China,2,Female,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0672939055466501,-0.0049278449956942,-0.1331299761330319
+1,All Population,3,YLDs (Years Lived with Disability),6,China,3,Both,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0311054402082208,0.025423282458421,-0.0891433928803833
+1,All Population,3,YLDs (Years Lived with Disability),1,Global,1,Male,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0671298341806902,-0.0520286142089395,-0.0821935017420443
+1,All Population,3,YLDs (Years Lived with Disability),1,Global,2,Female,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0773698030047911,-0.0642960890410478,-0.0920464499377641
+1,All Population,3,YLDs (Years Lived with Disability),1,Global,3,Both,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.07513094064266,-0.0623254168148897,-0.0866938110706616
+1,All Population,5,Prevalence,6,China,1,Male,159,10-24 years,630,Low back pain,3,Rate,1990,2023,0.0521238413990023,0.1066319046189313,0.0033795733113772
+1,All Population,5,Prevalence,6,China,2,Female,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0666729914163699,-0.0118053306535079,-0.1223516663878105
+1,All Population,5,Prevalence,6,China,3,Both,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0303096714159821,0.0213160746772832,-0.0829573633455019
+1,All Population,5,Prevalence,1,Global,1,Male,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0662135557841684,-0.0544856662177602,-0.076314057868023
+1,All Population,5,Prevalence,1,Global,2,Female,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0758887804052864,-0.0656383781090743,-0.0866875931062734
+1,All Population,5,Prevalence,1,Global,3,Both,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0739249801195284,-0.0647014429490557,-0.0830372057663848
+1,All Population,6,Incidence,6,China,1,Male,159,10-24 years,630,Low back pain,3,Rate,1990,2023,0.0363001134730675,0.1100018837258093,-0.028817331786447
+1,All Population,6,Incidence,6,China,2,Female,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0803677682188609,-0.0063248803781884,-0.1429296902537916
+1,All Population,6,Incidence,6,China,3,Both,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0437093413223964,0.0240353304322741,-0.1040123468912912
+1,All Population,6,Incidence,1,Global,1,Male,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0734576390278717,-0.0615410033443217,-0.084275960235296
+1,All Population,6,Incidence,1,Global,2,Female,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0781542821316338,-0.0685217303395144,-0.0882337385232772
+1,All Population,6,Incidence,1,Global,3,Both,159,10-24 years,630,Low back pain,3,Rate,1990,2023,-0.0780037318852937,-0.0692516641731805,-0.0870301329867533
